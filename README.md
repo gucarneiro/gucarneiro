@@ -35,7 +35,9 @@ Me chamo Gustavo Carneiro, tenho 22 anos e sou natural de São Paulo. Atualmente
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,mysql,angular,spring&theme=dark)](https://skillicons.dev)
 <br/>
 <br/>
+
 ---
+
 ### 📊 Estatísticas
 
 <p>
@@ -54,10 +56,14 @@ Me chamo Gustavo Carneiro, tenho 22 anos e sou natural de São Paulo. Atualmente
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gucarneiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
   <br/>
+</p>
+<br/>
+
+---
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gucarneiro/gucarneiro/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gucarneiro/gucarneiro/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gucarneiro/gucarneiro/output/github-contribution-grid-snake.svg">
 </picture>
-</p>
 
