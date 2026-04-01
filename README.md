@@ -1,36 +1,20 @@
+
 # 👨🏽‍💻 Gustavo Carneiro
 
-**`Desenvolvedor Back-End (Java ☕)`**
+***`Desenvolvedor Back-End (Java ☕)`***
 
-Me chamo Gustavo Carneiro, tenho 22 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Ipiranga, período noturno. Sou apaixonado por tecnologia e desafios lógicos, sempre buscando soluções mais eficientes possíveis!
+Me chamo Gustavo Carneiro, tenho 22 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Ipiranga, período noturno. Sou apaixonado por tecnologia e desafios lógicos, buscando sempre as soluções mais eficientes possíveis!
 
-<p align="left">
-    <a href="https://github.com/gucarneiro?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gucarneiro?color=eec668&style=for-the-badge&labelColor=e3b341&logo=star&label=estrelas&logoColor=393939"
-        />
-    </a>
-    <a href="https://github.com/gucarneiro?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub!" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gucarneiro?color=393939&labelColor=292929&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://linkedin.com/in/gustavo-carneiro-alves-51622323b">
-        <img 
-            alt="Linkein" 
-            title="Me adicione no Linkedin!" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gucarneiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkein&label=Linkedin&logoColor=white"
-        />
-    </a>
-</p>
+<h3 align="left">Minhas redes!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-2c2b2b?style=for-the-badge&logo=gmail&logoColor=EA4335&color:)](mailto:gu.casilva123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2c2b2b?style=for-the-badge&logo=inspire&logoColor=0077b5&color:FFF)](https://linkedin.com/in/gustavo-carneiro-alves-51622323b)
+[![Instagram](https://img.shields.io/badge/-Instagram-2c2b2b?style=for-the-badge&logo=instagram&logoColor=FF0069&color:FFF)](https://www.instagram.com/gucarneiro/)
+
 
 ---
 
-### 📚 Linguagens e Tecnologias
+### 📚 Linguagens e Tecnologias (em desenvolvimento)
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,mysql,angular,spring&theme=dark)](https://skillicons.dev)
 <br/>
