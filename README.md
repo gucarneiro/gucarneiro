@@ -16,7 +16,7 @@ Me chamo Gustavo Carneiro, tenho 22 anos e sou natural de São Paulo. Atualmente
 
 ### 📚 Linguagens e Tecnologias (em desenvolvimento)
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,mysql,angular,spring&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,mysql,spring&theme=dark)](https://skillicons.dev)
 <br/>
 <br/>
 
