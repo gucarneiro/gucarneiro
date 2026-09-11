@@ -75,10 +75,10 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🌐 [**Portfólio**](https://gucarneiro.github.io/portfolio/) | Meu portfólio pessoal, onde reúno meus projetos e minha apresentação | `HTML` `CSS` `JS` |
+| 🚗 [**LavaRapido**](https://github.com/gucarneiro/lava-rapido-projeto-final) | Simulação de controle de clientes de um LavaRapido, com opção de gerar um relatório com todos os clientes cadastrados | `Java` |
+| ❌ [**Jogo da Velha**](https://github.com/gucarneiro/jogo-da-velha/) | Jogo da velha que roda no terminal | `Java` |
 | 🧮 [**Calculadora**](https://gucarneiro.github.io/calculadora/) | Calculadora de operações básicas | `HTML` `CSS` `JS` |
 | 🃏 [**Jogo da Memória**](https://gucarneiro.github.io/jogo_da_memoria/) | Dois jogos da memória simples | `JavaScript` |
-| ☕ [**Curso Java (Loiane Groner)**](https://github.com/gucarneiro/curso-java-loiane) | Atividades e aulas do curso básico de Java | `Java` |
 
 ---
 
