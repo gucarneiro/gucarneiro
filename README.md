@@ -45,7 +45,7 @@
 
 </div>
 
-**☕ Tecnologia que eu mais uso:** Java — é o meu foco principal como back-end, usado no meu [curso-java-loiane](https://github.com/gucarneiro/curso-java-loiane) e em projetos práticos. O gráfico abaixo mostra, de forma automática e sempre atualizada, a real proporção de linguagens usadas em todos os meus repositórios:
+**☕ Tecnologia que eu mais uso:** Java — é o meu foco principal como back-end, usado em projetos práticos pessoais e acadêmicos. O gráfico abaixo mostra, de forma automática e sempre atualizada, a real proporção de linguagens usadas em todos os meus repositórios:
 
 <div align="center">
   
@@ -66,7 +66,7 @@
 </div>
 
 - ☕ **Java (POO e APIs)** — aprofundando em Programação Orientada a Objetos e construção de APIs
-- 🗄️ **Banco de Dados Oracle** — modelagem, queries e administração de dados
+- 🗄️ **Banco de Dados SQLite** — modelagem, queries e administração de dados
 - ⚙️ **C** — reforçando lógica de programação e fundamentos de baixo nível
 
 ---
@@ -75,10 +75,9 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🚗 [**LavaRapido**](https://github.com/gucarneiro/lava-rapido-projeto-final) | Simulação de controle de clientes de um LavaRapido, com opção de gerar um relatório com todos os clientes cadastrados | `Java` |
-| ❌ [**Jogo da Velha**](https://github.com/gucarneiro/jogo-da-velha/) | Jogo da velha que roda no terminal | `Java` |
-| 🧮 [**Calculadora**](https://gucarneiro.github.io/calculadora/) | Calculadora de operações básicas | `HTML` `CSS` `JS` |
-| 🃏 [**Jogo da Memória**](https://gucarneiro.github.io/jogo_da_memoria/) | Dois jogos da memória simples | `JavaScript` |
+| 📚 [**Controle Biblioteca**](https://github.com/anaaximenes/controle_biblioteca) | Simulação de adminitração de uma biblioteca, com empréstimos, reservas, cadastro de funcionários e leitores e controle do acervo literário | `Java` `SQLite` |
+| 💸 [**Chatbot controle financeiro**](https://github.com/gucarneiro/meufi-finance-bot) | Chatbot para lançamento de despesas variáveis e fixas, definição de renda e gestão de tetos de gastos.  | `JS` `MongoDB` `Hospedagem` |
+| 🏦 [**Projeto Banco**](https://github.com/gucarneiro/projeto-banco) | Projeto em desenvolvimento para simulações de sistema bancário | `Java` |
 
 ---
 
